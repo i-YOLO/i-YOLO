@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://metrics.lecoq.io/insights/i-YOLO"> </div>
+[!i-YOLO](https://metrics.lecoq.io/insights/i-YOLO)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-YOLO)](https://github.com/anuraghazra/github-readme-stats)
+[![i-YOLO's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-YOLO)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **i-YOLO/i-YOLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
