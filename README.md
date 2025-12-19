@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<div align="center"> <img src="https://metrics.lecoq.io/i-YOLO?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 [![i-YOLO's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-YOLO)](https://github.com/i-YOLO/github-readme-stats)
 
