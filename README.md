@@ -8,7 +8,13 @@
 
 [![i-YOLO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-YOLO&theme=react-dark)](https://github.com/i-YOLO/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=i-YOLO)](https://git.io/streak-stats)
+## [![GitHub Streak](https://streak-stats.demolab.com/?user=i-YOLO)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/i-YOLO/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/i-YOLO/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/i-YOLO/i-YOLO/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <!--
 **i-YOLO/i-YOLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
