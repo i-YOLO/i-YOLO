@@ -8,6 +8,8 @@
 
 [![i-YOLO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-YOLO&theme=react-dark)](https://github.com/i-YOLO/github-readme-activity-graph)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=i-YOLO)](https://git.io/streak-stats)
+
 <!--
 **i-YOLO/i-YOLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
