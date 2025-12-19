@@ -4,7 +4,7 @@
 
 [![i-YOLO's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-YOLO)](https://github.com/i-YOLO/github-readme-stats)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-YOLO" /> </div>
+![i-YOLO's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-YOLO&show_icons=true&theme=radical)
 
 
 <!--
