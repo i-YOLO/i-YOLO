@@ -4,7 +4,7 @@
 
 ![i-YOLO's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-YOLO&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-YOLO&hide=javascript,html,css&layout=compact )
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-YOLO&hide=javascript,html,css&layout=compact&stats_format=bytes )
 
 <!--
 **i-YOLO/i-YOLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
